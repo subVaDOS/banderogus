@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   color: #1b1d1f;
 }
 .main-page {
@@ -24,14 +24,14 @@ body {
   position: relative;
 }
 .main-page-hello-text {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   font-size: 16px;
   margin-top: 0%;
   margin-bottom: 60px;
 }
 .main-page-title {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   font-size: 64px;
 
@@ -71,7 +71,7 @@ body {
   margin: -600px 0 0 0;
 }
 .facts-title {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   font-size: 48px;
   line-height: 150%;
@@ -88,7 +88,7 @@ body {
   margin-bottom: 24px;
 }
 .facts-descr {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -100,7 +100,7 @@ body {
   margin-bottom: 24px;
 }
 .facts-item-title {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 600;
   font-size: 24px;
   line-height: 100%;
@@ -109,7 +109,7 @@ body {
   margin-top: 0;
 }
 .facts-item-descr {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -145,7 +145,7 @@ body {
   margin-bottom: 32px;
 }
 .form-title {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 700;
   font-size: 32px;
   line-height: 75%;
@@ -154,7 +154,7 @@ body {
   margin-bottom: 12px;
 }
 .form-descr {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -168,7 +168,7 @@ body {
   align-items: flex-start;
 }
 .form-field-label {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -181,7 +181,7 @@ body {
 .form-input {
   border: 1px solid #005bbb;
   border-radius: 8px;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
@@ -194,7 +194,7 @@ body {
   width: 100%;
 }
 .form-btn {
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 150%;
